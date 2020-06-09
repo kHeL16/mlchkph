@@ -17,7 +17,8 @@ python -m pip install -U pip
 pip install colored
 
 How the Checker Works?
-1. Make sure you created a folder in your Internal Storage called 'ml-checker-result'
-2. you can locate your combolist copy the path of the list and the name .txt for (ex. /sdcard/download/list.txt)
-3. for proxy same as combolist. (ex. /sdcard/download/proxies.txt)
-4. The live.txt and die.txt will be saved in 'ml-checker-result' folder.
+1. Put Combolist (ex. /sdcard/list.txt)
+2. When saving the path make sure that there's a text file on that path for (ex. /sdcard/downloads/live.txt)
+3. Same as die.txt
+
+Make sure you're combolist is @gmail, @yahoo, @yandex, @hotmail, etc.
