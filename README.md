@@ -5,9 +5,11 @@ Moonton Checker by JemPH Proxy Support.
 Guide:
 
 apt -get upgrade
+
 apt -get update
 
 pkg install python
+
 pkg install git
 
 python -m pip install -U pip
