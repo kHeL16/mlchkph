@@ -3,14 +3,15 @@ Moonton Checker by JemPH Proxy Support.
 
 Guide:
 Type The Commands in Termux:
-  pkg update && pkg upgrade
-  pkg install python git
-  pip install --upgrade pip
 
-  cd ml-chk-ph
-  pip install -r requirements.txt
+pkg update && pkg upgrade
+pkg install python git
+pip install --upgrade pip
 
-  python run.py
+cd ml-chk-ph
+pip install -r requirements.txt
+
+python run.py
 
 How the Checker Works?
 You Need Combolist to check accounts.
