@@ -6,6 +6,7 @@ Type The Commands in Termux:
 - pkg update && pkg upgrade
 - pkg install python git
 - pip install --upgrade pip
+- git clone https://github.com/JemPH/ml-chk-ph
 - cd ml-chk-ph
 
 - pip install -r requirements.txt
