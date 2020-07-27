@@ -1,2 +1,0 @@
-licensing==0.21
-colored==1.4.2
