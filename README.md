@@ -33,11 +33,11 @@ If you want to replace the combolist you can try the easy method:<br>
 3. To exit the list click Ctrl + X then Click Y in your keyboard.<br>
 4. Run the checker. Enjoy Checking!
 
-# Other Commands in Nano:<br>
+## Other Commands in Nano:<br>
 ```Ctrl + Alt + a``` use to Highlight Text<br>
 ```Ctrl + G``` help option for more commands<br>
 
-# Other Commands in Termux on how to Copy, Remove, Move Files in Internal/External Storage?
+## Other Commands in Termux on how to Copy, Remove, Move Files in Internal/External Storage?
 ```rm -rf name.txt``` use to remove files in the current directory.<br>
 ```cp -r name.txt /sdcard/``` use to copy files from the current directory to storage.<br>
 ```mv -r name.txt /sdcard/``` use to move files from the current directory to storage.<br>
