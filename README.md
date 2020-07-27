@@ -8,22 +8,19 @@ This is a Account Checker for Moonton - Mobile Legends: Bang Bang.<br>
 
 
 ## Commands:
-```
-pkg update && pkg upgrade
+```pkg update && pkg upgrade``` 
 
-pkg install python git
+```pkg install python git```
 
-pip install --upgrade pip
+```pip install --upgrade pip```
 
-pip install nano
+```pip install nano```
 
-git clone https://github.com/FVC-User/mlchkph
+```git clone https://github.com/FVC-User/mlchkph```
 
-cd mlchkph
+```cd mlchkph``` if you already installed all the requirements above you can run this command. while running back termux.<br>
 
-python run.py
-
-```
+```python run.py``` after that execute the script by this command.<br>
 
 ## How to use Nano on Termux?
 If you want to replace the combolist you can try the easy method:<br>
