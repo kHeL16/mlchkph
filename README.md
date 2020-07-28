@@ -16,7 +16,7 @@ This is a Account Checker for Moonton - Mobile Legends: Bang Bang.<br>
 
 ```pip install nano```
 
-```git clone https://github.com/FVC-User/mlchkph```
+```git clone https://github.com/JemPH/mlchkph```
 
 ```cd mlchkph``` if you already installed all the requirements above you can run this command. while running back termux.<br>
 
