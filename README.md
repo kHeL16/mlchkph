@@ -1,5 +1,6 @@
 # mlchkph
 This is a Account Checker for Moonton - Mobile Legends: Bang Bang.<br>
+Register to get access.<br>
 
 ## How To Use?
 1st You must have a email:pass email|pass combolist.<br>
